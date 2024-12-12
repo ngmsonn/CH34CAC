@@ -6,5 +6,7 @@ Tài liệu tham khảo
 Tài liệu khóa học
 |               | Chủ đề        |  Tài liệu          | Đọc thêm |
 | ------------- | ------------- | ------------------ | -------- |
+| Lecture 1     |               |                    |          |
+| Lecture 2     | Ananytical perpective |            |          |
 
 
