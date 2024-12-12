@@ -8,5 +8,6 @@ Tài liệu khóa học
 | ------------- | ------------- | ------------------ | -------- |
 | Lecture 1     |               |                    |          |
 | Lecture 2     | Ananytical perpective |            |          |
-
+| X             | X             | X                  | X        |
+| Lecture 4     | Introduction to Non-destructive methods |  |  |
 
