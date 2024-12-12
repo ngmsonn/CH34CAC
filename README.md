@@ -9,5 +9,5 @@ Tài liệu khóa học
 | Lecture 1     |               |                    |          |
 | Lecture 2     | Analytical perpective |            |          |
 | Lecture 3     |               |                    |          |
-| Lecture 4     | Introduction to Non-destructive methods |  |  |
+| Lecture 4     | Introduction to Non-destructive methods | [Slide](/lectures/lecture4_vi.pdf) |  |
 | Lecture 5     | Machine learning (Part 1) |  |  |
