@@ -1,4 +1,4 @@
-# CH34 ChemometricsinAnalyticalChemistry
+# CH34 Chemometrics in Analytical Chemistry
 [Graduate Course] CH34 - Chemometrics in Analytical Chemistry 
 
 Tài liệu tham khảo
