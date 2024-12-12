@@ -7,7 +7,7 @@ Tài liệu khóa học
 |               | Chủ đề        |  Tài liệu          | Đọc thêm |
 | ------------- | ------------- | ------------------ | -------- |
 | Lecture 1     |               |                    |          |
-| Lecture 2     | Ananytical perpective |            |          |
+| Lecture 2     | Analytical perpective |            |          |
 | Lecture 3     |               |                    |          |
 | Lecture 4     | Introduction to Non-destructive methods |  |  |
 | Lecture 5     | Machine learning (Part 1) |  |  |
